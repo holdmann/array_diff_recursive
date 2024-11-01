@@ -1,0 +1,21 @@
+{
+  "name": "holdmann/array_diff_recursive",
+  "description": "Provides functionality for array_diff_recursive().",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleg Scherbakov",
+      "email": "holdmann@yandex.ru"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/holdmann/array_diff_recursive/issues",
+    "source": "https://github.com/holdmann/array_diff_recursive"
+  },
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+      "files": ["src/array_diff_recursive.php"]
+  }
+}
